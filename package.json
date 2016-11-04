@@ -1,0 +1,26 @@
+{
+  "name": "simple-express-server",
+  "version": "1.0.0",
+  "description": "A simple HTTP server using Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSU-CS290-F16/simple-express-server.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Rob Hess <hessro@oregonstate.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OSU-CS290-F16/simple-express-server/issues"
+  },
+  "homepage": "https://github.com/OSU-CS290-F16/simple-express-server#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
