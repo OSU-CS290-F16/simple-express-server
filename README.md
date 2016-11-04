@@ -1,4 +1,4 @@
-# Simple Express Server
+# Simple Static Express Server
 
 This repo contains a basic Express-based server in `server.js` that demonstrates how to serve static files.  Before doing anything with it you need to install dependencies:
 ```
